@@ -30,9 +30,8 @@ lib/
 ```
 
 ## 📸 Preview
+<img width="1320" height="2868" alt="localhost_50490_(iPhone 16 Pro Max)" src="https://github.com/user-attachments/assets/164862da-a0de-4698-907c-baf68830c081" />
 
-*(Tambahkan screenshot aplikasi Anda di sini. Anda bisa mengunggah gambar `image_d9fd1c.png` ke folder repositori Anda dan menautkannya seperti ini:)*
-`![App Screenshot](link_gambar_screenshot_anda_disini)`
 
 ## 💻 How to Run the Project
 
